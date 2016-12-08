@@ -1,0 +1,16 @@
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\bin\Debug\wfPakbank.exe.config
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\bin\Debug\wfPakbank.exe
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\bin\Debug\wfPakbank.pdb
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.csprojResolveAssemblyReference.cache
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.frmAnaSayfa.resources
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.Properties.Resources.resources
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.csproj.GenerateResource.Cache
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.exe
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.pdb
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.frmHesapAcilisi.resources
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.frmHesapDokumu.resources
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\obj\Debug\wfPakbank.frmParaIslemleri.resources
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\student2\Documents\ERP-6\wfPakbank\wfPakbank\bin\Debug\Microsoft.SqlServer.Types.dll
